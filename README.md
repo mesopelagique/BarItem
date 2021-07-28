@@ -6,6 +6,9 @@
 [![license][license-shield]][license-url]
 [![discord][discord-shield]][discord-url]
 [![sponsors][sponsors-shield]][sponsors-url]
+[![build](https://github.com/mesopelagique/StatusBarItem/actions/workflows/build.yml/badge.svg)](https://github.com/mesopelagique/StatusBarItem/actions/workflows/build.yml)
+[![release](https://github.com/mesopelagique/StatusBarItem/actions/workflows/release.yml/badge.svg)](https://github.com/mesopelagique/StatusBarItem/actions/workflows/release.yml)
+[![release](https://img.shields.io/github/v/release/mesopelagique/StatusBarItem.svg)](https://github.com/mesopelagique/StatusBarItem/releases/latest)
 
 This 4d plugin allow to add status bar item to macOS simply by passing method to execute on click event and the picture icon.
 
