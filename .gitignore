@@ -1,0 +1,5 @@
+build
+sample.4dbase/Logs
+*.xcuserdatad
+sample.4dbase/Project/DerivedData
+userPreferences.*

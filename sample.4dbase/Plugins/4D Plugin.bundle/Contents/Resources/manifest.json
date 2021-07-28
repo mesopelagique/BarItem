@@ -1,0 +1,1 @@
+{	"name": "StatusItem",	"id": 15000,	"commands": [		{			"theme": "status",			"syntax": "STATUS BAR ITEM(&T;&P)",			"threadSafe": false		}	]}
